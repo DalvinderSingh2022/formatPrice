@@ -1,0 +1,25 @@
+{
+  "name": "formatprice",
+  "version": "1.0.0",
+  "description": "A simple package to format price numbers with currency symbols.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DalvinderSingh2022/formatPrice.git"
+  },
+  "keywords": [
+    "price",
+    "formatter",
+    "currency",
+    "number"
+  ],
+  "author": "Dalvinder Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DalvinderSingh2022/formatPrice/issues"
+  },
+  "homepage": "https://github.com/DalvinderSingh2022/formatPrice#readme"
+}
