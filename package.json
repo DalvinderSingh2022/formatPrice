@@ -1,6 +1,6 @@
 {
   "name": "@dalvindersingh2019/formatprice",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple package to format price numbers with currency symbols.",
   "main": "index.js",
   "scripts": {
